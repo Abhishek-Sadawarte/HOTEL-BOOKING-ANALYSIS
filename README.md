@@ -56,6 +56,7 @@ Q4. Which market segment gave highest bookings ?
 Q5. which room generates highest adr ?  
 Q6. percentage of cancellation?  
 Q7. which hotel type shows most percentage of repeat of customer ?   
+
 ## Conclusion 
 1) City hotel type gets most reservation throughout the season.
 2) August, July, April got most reservation in year.
@@ -65,6 +66,9 @@ Q7. which hotel type shows most percentage of repeat of customer ?
 6) More than 50% of city hotel gets cancelled and more than 30% resort hotel gets cancelled.
 7) Resort Type of hotel gets high repeated customer.
 8) Online TA segment gets more booking.
+![image](https://user-images.githubusercontent.com/109215374/187034586-e9db96e6-b279-453d-a455-f3ec69345a3a.png)
+![image](https://user-images.githubusercontent.com/109215374/187034611-fab3523e-89c0-483f-932b-2d6b059a91d4.png)
+![image](https://user-images.githubusercontent.com/109215374/187034625-172801e2-39a3-43f4-a0d1-5e867443dced.png)
 
 ## Challenges 
 1. The data contain to many null values 
